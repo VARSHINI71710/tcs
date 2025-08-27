@@ -14,26 +14,13 @@ Segment customers by spending patterns
 
 Perform EDA on Age, Product Category, and Payment Modes
 
-Apply classification models and evaluate them with metrics like ROC Curve & Classification Report
-
-📷 Screenshots & Visualizations
-1️⃣ Customer Segments
-
-2️⃣ Age vs Product Category
-
-3️⃣ Payment Mode vs Average Spend
-
-4️⃣ ROC Curve for Classification
-
 🚀 Features Implemented
 
-✔️ Customer Segmentation: Low / Medium / High Spenders
 ✔️ Exploratory Data Analysis (EDA)
 ✔️ Visualizations of spending trends
 ✔️ Age × Product Category analysis 👩‍🦱👨‍🦳
 ✔️ Payment Mode vs Average Spend 💳💵
-✔️ Classification Report 📊
-✔️ ROC Curve for model performance
+
 
 ⚙️ Tech Stack
 
@@ -65,12 +52,7 @@ env\Scripts\activate      # for Windows
 Install dependencies
 
 pip install -r requirements.txt
-
-
-Run Jupyter Notebook
-
-jupyter notebook
-
+pip install ipykernel
 
 Open the notebook and run all cells to:
 
@@ -90,11 +72,6 @@ View Visualizations & Reports
 
 👥 Analyzed Age group vs Product Category preferences
 
-💳 Compared Payment Modes vs Average Spend
-
-🤖 Trained ML classification model
-
-📈 Evaluated with ROC Curve & Classification Report
 
 🏆 Outcomes
 
